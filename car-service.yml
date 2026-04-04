@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/cardb
     username: root
-    password: Prajwal@09
+    password: "Prajwal@09"
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
